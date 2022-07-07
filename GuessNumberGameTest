@@ -1,0 +1,8 @@
+package com.aurionpro.model;
+
+public class GuessNumberGameTest {
+	public static void main(String[] args) {
+		NumberMethods obj = new NumberMethods();
+		obj.startGame();
+	}
+}
