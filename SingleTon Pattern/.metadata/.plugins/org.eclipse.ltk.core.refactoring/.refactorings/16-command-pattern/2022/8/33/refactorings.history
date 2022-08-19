@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.aurionpro.model.SetTopBoxOnCommand&apos; to &apos;SetTopBoxOn&apos;&#x0D;&#x0A;- Original project: &apos;16-command-pattern&apos;&#x0D;&#x0A;- Original element: &apos;com.aurionpro.model.SetTopBoxOnCommand&apos;&#x0D;&#x0A;- Renamed element: &apos;com.aurionpro.model.SetTopBoxOn&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SetTopBoxOnCommand&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.aurionpro.model{SetTopBoxOnCommand.java[SetTopBoxOnCommand" matchStrategy="1" name="SetTopBoxOn" qualified="false" references="true" similarDeclarations="false" stamp="1660201218511" textual="false" version="1.0"/>
+</session>

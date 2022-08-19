@@ -1,0 +1,11 @@
+package com.aurionpro.model;
+
+public class SMSNotifier implements INotifier {
+
+	@Override
+	public void sendNotification(Account acc) {
+		System.out.println("Message send by SMS");
+		
+	}
+
+}

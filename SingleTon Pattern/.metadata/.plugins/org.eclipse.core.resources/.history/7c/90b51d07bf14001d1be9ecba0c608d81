@@ -1,0 +1,12 @@
+package com.aurionpro.model;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		Account acc = new Account(101, "Rizwan", 100000);
+		acc.registerNotifier(new EmailNotifier());
+		acc.Deposite(500);
+		acc.withdraw(50000000);
+	}
+
+}
